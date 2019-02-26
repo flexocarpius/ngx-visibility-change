@@ -1,0 +1,28 @@
+{
+  "name": "ngx-visibility-change",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "Flexo Carpius",
+    "email": "flexocarpius@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "ngx-visibility-change.umd.js",
+  "module": "ngx-visibility-change.js",
+  "jsnext:main": "ngx-visibility-change.js",
+  "typings": "ngx-visibility-change.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
