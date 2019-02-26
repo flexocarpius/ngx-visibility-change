@@ -1,5 +1,13 @@
 # ngx-visibility-change
 
+This library uses the [InterceptionObserver API](https://developer.mozilla.org/es/docs/Web/API/Intersection_Observer_API) to get whenever a element in your Angular 2+ application is visible.
+
+It is highly inspired on [ng-defer-load from Vamsi Vempati](https://github.com/TradeMe/ng-defer-load).
+
+## Demo
+
+A demo can be found [here on StackBlitz.](https://stackblitz.com/edit/ngx-visibility-change)
+
 ## Installation
 
 To install this library, run:
